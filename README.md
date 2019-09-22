@@ -14,5 +14,5 @@ Before making the script make sure to install python -docx*
 3. Go the advanced tab and you'll see "Evironment Variables" at the bottom right
 4. You'll se 2 types of variables, the one that we are going to use is the "User Variables"
 5. In the "User Variables" youl'll see "Path" and double click on that
-6. Once you're inside the "Path", click new then type the directory of your script, eg C:Users\lemue\Documents\Python Projects\Automation\
+6. Once you're inside the "Path", click new then type the directory of your script, eg; C:Users\lemue\Documents\Python Projects\Automation\
 7. Once you're done adding it, click ok and you're all good to go
