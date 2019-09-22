@@ -1,0 +1,1 @@
+"C:\Users\lemue\AppData\Local\Programs\Python\Python37\python.exe" "C:\Users\lemue\Documents\Python Projects\Automation\Create.py"
